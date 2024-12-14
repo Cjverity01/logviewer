@@ -1,3 +1,3 @@
 #!/bin/sh
 
-pipenv run logviewer
+python3.10 -m pipenv run logviewer
